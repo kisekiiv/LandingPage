@@ -1,0 +1,2 @@
+- [x] Edit src/components/FeatureSection.jsx to add feature.text and feature.description to the render
+- [x] Fix the className typo from "sm:1/2" to "sm:w-1/2" in FeatureSection.jsx
